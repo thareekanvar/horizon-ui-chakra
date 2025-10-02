@@ -45,17 +45,6 @@ export default function SidebarDocs() {
         px='15px'
         pt='55px'>
         <Text
-          fontSize={{ base: "lg", xl: "18px" }}
-          color='white'
-          fontWeight='bold'
-          lineHeight='150%'
-          textAlign='center'
-          px='10px'
-          mt="10px"
-          mb='6px'>
-          Upgrade to PRO
-        </Text>
-        <Text
           fontSize='14px'
           color={"white"}
           fontWeight='500'
@@ -76,7 +65,7 @@ export default function SidebarDocs() {
           fontSize='sm'
           minW='185px'
           mx='auto'>
-          Upgrade to PRO
+          thareekanvar
         </Button>
       </Link>
     </Flex>
